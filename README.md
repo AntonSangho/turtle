@@ -1,5 +1,8 @@
-# turtle
+# Disctription 
 python turtle project
+
+# Install
+    pip install -r requirements.txt
 
 # reference 
 
