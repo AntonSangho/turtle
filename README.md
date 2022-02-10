@@ -1,4 +1,4 @@
-# Disctription 
+# Discription
 python turtle project
 
 # Install
