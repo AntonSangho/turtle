@@ -14,5 +14,6 @@ ws.left(90)
 
 ws.forward(100)
 ws.left(90)
+
 turtle.exitonclick()
 
