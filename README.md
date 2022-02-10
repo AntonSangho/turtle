@@ -1,5 +1,5 @@
 # Discription
-python turtle project
+python turtle project self-study
 
 # Install
     pip install -r requirements.txt
